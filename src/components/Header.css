@@ -1,0 +1,33 @@
+.header {
+    background-color: #096ee3;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header h1 {
+    color: white;
+    margin-left: 20px;
+    line-height: 70px;
+}
+
+.counts{
+    display: flex;
+}
+img {
+    width: 20px;
+    height: 20px;
+    margin-top: 25px;
+}
+
+.num {
+    background-color: #dc3545;
+    color: white;
+    border-radius: 40%;
+    height: 15px;
+    width: 18px;
+    margin: auto 20px auto 2px;
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+}
